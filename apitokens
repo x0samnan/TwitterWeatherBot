@@ -1,0 +1,12 @@
+#twitter tokens
+TWITTER API
+TWITTER_API_SECRET
+ACCESS_TOKEN
+ACCESS_TOKEN_SECRET
+
+#openweather tokens
+OPENWEATHER_API
+
+*Replace the lines above with your respective API Tokens*
+
+*Note: You can use environment variables by using os module in python if your api keys are in your system as env variables*
