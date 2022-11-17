@@ -10,7 +10,7 @@ cd TwitterWeatherBot
 
 Step 3)
 Install the requirements.
-pip install -r /path/to/requirements.txt
+pip install -r requirements.txt
 
 Step 4) 
 Edit the 'apitokens' file and replace the lines with your respective API tokens.
