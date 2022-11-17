@@ -16,7 +16,7 @@ Step 4)
 Edit the 'apitokens' file and replace the lines with your respective API tokens.
 
 Step 5)
-Make the python script executable
+Make the python script executable.
 sudo chmod +x twitterbot.py
 
 Step 6)
