@@ -1,5 +1,1 @@
-Weather Stats for - BANGALORE  || 17 Nov 2022 | 10:26:20 PM
-Current temperature is: 19.80 deg C
-('Current weather description  :', 'few clouds')
-('Current Humidity      :', 60, '%')
-('Current wind speed    :', 1.54, 'kmph')
+WEATHER DATA TEMPORARILY STORED HERE
