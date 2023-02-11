@@ -1,6 +1,6 @@
 # TwitterWeatherBot
 
-A Twitter Bot which takes weather information using OpenWeather api and tweets it. 
+A Twitter Bot which takes weather information using OpenWeather api and tweets it using Python3.
 
 Step 1)
 git clone https://github.com/x0samnan/TwitterWeatherBot.git
