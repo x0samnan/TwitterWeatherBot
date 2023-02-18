@@ -1,6 +1,10 @@
-# TwitterWeatherBot
+# TwitterWeatherBot 
+## 3rd Semester College Project
 
-A Twitter Bot which takes weather information using OpenWeather api and tweets it using Python3.
+## Frontend: Twitter (To show updates), And Terminal (To verify the output)
+## Backend: Python3, OpenweatherAPI (To fetch the forecast), TwitterAPI(Tweepy module) - To send the weather data to frontend to make a tweet
+
+## To run it locally on your machine, use the steps given below 
 
 Step 1)
 git clone https://github.com/x0samnan/TwitterWeatherBot.git
