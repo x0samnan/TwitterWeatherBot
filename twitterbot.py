@@ -3,6 +3,7 @@ import os
 from datetime import datetime
 import tweepy
 import logging
+import sys
 
 '''Importing API Tokens using file
 Environment variables can be used. OS module is already imported for that functionality'''
